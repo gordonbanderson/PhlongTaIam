@@ -13,6 +13,6 @@
     "homepage": "http://github.com/veer66/PhlongTaIam",
     "minimum-stability": "dev",
     "autoload": {
-        "classmap": [ "src/" ]
+        "psr-4": [ "src/" ]
     }
 }
