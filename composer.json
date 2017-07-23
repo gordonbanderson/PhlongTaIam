@@ -11,7 +11,7 @@
       "squizlabs/php_codesniffer": "^2.6"
     },
     "homepage": "http://github.com/veer66/PhlongTaIam",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": [ "src/" ]
     }
